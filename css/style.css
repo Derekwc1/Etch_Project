@@ -1,0 +1,50 @@
+.head {
+  width: 85%;
+  height: 45px;
+  background-color: #f3f3f3;
+  font-style: 18px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-radius: 40px
+}
+.buttons {
+  border: 1px dashed black;
+  position: fixed;
+  align: left;
+  margin: 15px 0 5px 0;
+  text-align: center;
+  
+}
+.buttons #btn {
+  margin: 8px 8px 8px 8px;
+  width: 90px;
+}
+
+.buttons button {
+  margin: 8px 8px 8px 8px;
+  width: 90px;
+}
+#paint {
+  border: 15px;
+  margin: 15px 0 0 150px;
+  width: 600px;
+  height: 600px;
+  border: 40px solid #d4d4d4;
+  position: absolute;
+  padding: 0 0 0 0;
+  
+}
+
+.grid {
+  padding: 0px 0 0px 0;
+  margin: 0px -.5px -5px 0px;
+  border: .5px dashed #d1d1d1;
+  display: inline-block;
+}
+
+.grid_color {
+  background-color: #a3a3a3;
+}
+
+
